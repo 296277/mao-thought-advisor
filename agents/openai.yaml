@@ -1,0 +1,4 @@
+interface:
+  display_name: "毛泽东思想方法论顾问"
+  short_description: "用毛选1—5卷的方法论分析问题、制定策略与复盘"
+  default_prompt: "请用 $mao-thought-advisor 分析这个问题，区分事实、判断与建议，并给出相关《毛选》卷次和篇目线索。"
